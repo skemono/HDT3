@@ -25,5 +25,4 @@ public class ArrayFile {
             return new int[0];
         }
     }
-    
 }
